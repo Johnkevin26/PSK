@@ -58,7 +58,7 @@ plt.show()
 
 ## Output Waveform:
 ![image](https://github.com/user-attachments/assets/2019ded6-024a-4219-9631-f2f71d7f981a)
-![image](https://github.com/user-attachments/assets/dfdd30a4-aef4-44aa-aecf-4a8b68254a32)
+![Screenshot 2025-05-11 202201](https://github.com/user-attachments/assets/2561ebec-e5c6-4ced-937c-4e6b48d6be20)
 
 ## Results:
   * PSK successfully encoded data by changing the phase of the carrier signal.
